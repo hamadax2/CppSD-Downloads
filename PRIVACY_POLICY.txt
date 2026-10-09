@@ -1,0 +1,69 @@
+C++ SD PRIVACY POLICY
+
+Effective date: October 9, 2026
+
+This Privacy Policy explains how C++ SD ("the App") handles information when you install and use the Android application. C++ SD is published by Hamada.
+
+1. Information stored on your device
+
+The App is primarily a local C/C++ editor and compiler. Source files, editor settings, recently opened file references, and compiler/toolchain files are stored on your device so the App can provide its features. The App does not intentionally upload your source code or project files to the publisher.
+
+You are responsible for the files you open, create, save, or compile and for the permissions granted by Android to access those files.
+
+2. Information collected by the publisher
+
+The publisher does not operate a separate user account system for C++ SD and does not intentionally collect names, email addresses, contacts, precise location, or the contents of your source files through the App.
+
+The App may make network requests to load advertising content. Advertising providers may process technical information such as IP address, device type, operating-system information, browser/WebView information, approximate location derived from IP address, advertising identifiers, and ad-interaction information according to their own policies.
+
+3. Advertising
+
+The App currently uses Clickadilla advertising services, including a banner delivered in an Android WebView and video advertising delivered through a VAST endpoint. Ad content and destinations are controlled by the advertising provider. When an advertisement is displayed, clicked, or loaded, the provider may collect or receive technical and interaction information. The provider may also use cookies, similar technologies, or advertising identifiers where supported by the device and applicable law.
+
+Clickadilla privacy information should be reviewed at the provider's website and may change over time. The publisher does not control Clickadilla's data practices, advertising content, campaign destinations, or privacy policy.
+
+The App opens ad destinations in the device browser where appropriate. The privacy practices of the destination website then apply.
+
+4. Permissions and network access
+
+The App may use Android file-picker permissions to open and save files selected by you. It may use network access to load advertising content and related media. The bundled compiler and language tools are designed to run locally on the device.
+
+5. Diagnostics and crash information
+
+The publisher does not intentionally transmit source code as part of normal compiler or editor operation. Android, the device manufacturer, or hosting services may independently provide optional crash, performance, security, or download telemetry according to their own settings and policies.
+
+6. Children
+
+C++ SD is not directed specifically at children. Because the App may display third-party advertising, parents or guardians should decide whether it is appropriate for a child and should review the advertising provider's policies and available content controls.
+
+7. Data retention and deletion
+
+The publisher does not maintain a separate C++ SD user database. To remove locally stored App data, uninstall the App or use Android's application-storage controls. Files saved outside the App's private storage must be deleted separately by you. Advertising providers may retain information according to their own policies.
+
+8. Your choices
+
+You can:
+
+- Deny or revoke Android permissions through Android settings where supported.
+- Reset or limit the device's advertising identifier through Android settings where supported.
+- Disable network access for the App through device controls where supported, understanding that advertising and any network-dependent features may not work.
+- Uninstall the App and delete its local data.
+- Avoid clicking advertisements if you do not want to visit third-party destinations.
+
+Your rights may vary by location. Requests concerning information held by an advertising provider should be directed to that provider. Requests concerning the App or this policy can be raised through the public support repository:
+
+https://github.com/hamadax2/CppSD-Downloads/issues
+
+9. Third-party services
+
+This policy does not replace the privacy policies of Clickadilla, websites opened from advertisements, Android, Google Play, GitHub, or other third-party services. Those services operate under their own terms and privacy policies.
+
+10. Changes to this policy
+
+This policy may be updated when the App's data practices, advertising providers, or applicable requirements change. The latest version will be published in the public C++ SD download repository. The effective date at the top identifies the current version.
+
+11. Contact
+
+For questions about this policy or C++ SD, open an issue at:
+
+https://github.com/hamadax2/CppSD-Downloads/issues

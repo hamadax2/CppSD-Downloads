@@ -31,6 +31,10 @@ The Settings screen provides controls for dark mode, font size, word wrap, white
 
 ![C++ SD settings screen](screenshots/settings.jpg)
 
+## Privacy policy
+
+Read the [C++ SD Privacy Policy](PRIVACY_POLICY.txt) for information about local data, network requests, and advertising services.
+
 ## Verify the checksum
 
 ```sh
