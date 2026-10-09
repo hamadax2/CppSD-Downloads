@@ -14,7 +14,7 @@ You are responsible for the files you open, create, save, or compile and for the
 
 The publisher does not operate a separate user account system for C++ SD and does not intentionally collect names, email addresses, contacts, precise location, or the contents of your source files through the App.
 
-The App may make network requests to load advertising content. Advertising providers may process technical information such as IP address, device type, operating-system information, browser/WebView information, approximate location derived from IP address, advertising identifiers, and ad-interaction information according to their own policies.
+The App may make network requests to load advertising content. Advertising providers may process technical information such as IP address, device type, operating-system information, browser/WebView information, approximate location derived from IP address, advertising identifiers, and ad-interaction information according to their own policies. The App also makes an occasional read-only request to the public GitHub Releases API for hamadax2/CppSD-Downloads to check whether a newer app version is available. This request may include the device IP address and standard HTTP technical headers; the App does not send source code or account information in this update check.
 
 3. Advertising
 
