@@ -4,12 +4,16 @@ Official public download page for **C++ SD**, an Android C/C++17 editor and comp
 
 ## Download
 
-Download the latest signed APK from the [Releases](https://github.com/hamadax2/CppSD-Downloads/releases) page.
+Download the latest signed APK from the [C++ SD 1.4.4 fixed ARM64 release](https://github.com/hamadax2/CppSD-Downloads/releases/tag/v1.4.4) or browse the [Releases](https://github.com/hamadax2/CppSD-Downloads/releases) page.
 
-- Universal Android APK
+- Fixed `arm64-v8a` Android APK
 - Signed release build
 - SHA-256 checksum included with each release
 - Supports C/C++ editing, Find/Replace, Format Code, clangd completion, and offline Clang tools
+
+### C++ SD 1.4.4 ARM64 fix
+
+The 1.4.4 build includes the complete libc++ header tree in the AArch64 target sysroot. It fixes the `__type_traits/has_unique_object_representation.h: file not found` error that prevented basic C++17 programs using `<iostream>` from compiling. It is intended for 64-bit ARM Android devices (`arm64-v8a`, API 24+).
 
 ## Screenshots
 
